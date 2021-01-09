@@ -1,0 +1,15 @@
+[
+    {
+        "name":"burger",
+        "unitPrice":33,
+        "quantity":2,
+        "addOns": ["cheese","sauce"],
+        "detail": "Last time too much sauce"
+    },
+    {
+        "name":"pizza",
+        "unitPrice":50,
+        "quantity":2
+    }
+] 
+}

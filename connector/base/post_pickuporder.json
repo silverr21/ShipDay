@@ -1,0 +1,40 @@
+{
+    "orderNumber": 1234,
+    "name": "Test name",
+    "phone": "+8801550000000",
+    "email": "hello@shipday.com",
+    "deliveryAddress": {
+        "streetOne": "173/A, Apartment - 2A",
+        "streetTwo": "Somewhere",
+        "city": "Dhaka",
+        "state": "Alabama",
+        "zip": "12345"
+    },
+    "deliveryTime": "2019-11-11T11:45:30",
+    "shipFromId": 6,
+    "pickupTime": "2019-11-10T10:30:45",
+    "placementTime": "2019-11-10T10:30:45",
+    "requestedPickupTime": "2019-11-10T10:30:45",
+    "restaurantAddress" : "Some place",
+     "restaurantName" : "Some name",
+    "restaurantLatitude": 22.2,
+    "restaurantLongitude" : 22.1,
+    "customerPhone" : "01751133360",
+    "customerName" : "Forhad",
+    "orderItems": [
+        {
+            "name": "Super Cheese Burger",
+            "quantity": 2,
+            "price": 150
+        },
+        {
+            "name": "Potato weedes",
+            "quantity": 1,
+            "price": 40
+        }
+    ],
+    "deliveryInstruction": "Please perpare, I'm coming",
+    "paymentMethod": "CASH",
+    "provider" : "dash",
+    "totalPayable" : 10.2
+}

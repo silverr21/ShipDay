@@ -1,0 +1,21 @@
+{
+    "orderNumber" : 999,
+    "customerName" : "Mr. Jhon",
+    "customerAddress" : "8400, London Place Washington",
+    "customerEmail" : "jhon@gmail.com",
+    "customerPhoneNumber" : "+1222222",
+    "restaurantName" : "KFC",
+    "restaurantAddress" : "8400, London Place Washington",
+    "restaurantPhoneNumber" : "+12222345",
+    "pickupLatitude":41.538670,
+    "pickupLongitude":-72.082700,
+    "deliveryLatitude":41.538670,
+    "deliveryLongitude":-72.082700,
+    "orderItem":[],
+    "totalOrderCost":"38.06",
+    "tax":"2.5",
+    "tips":"0.56",
+    "deliveryFee":"5.0",
+    "deliveryInstruction":"fast",
+    "additionalId":"xxxx"
+}

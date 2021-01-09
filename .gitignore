@@ -10,7 +10,11 @@ media
 *.bak 
 
 # Config #
-config.py
+myconfig.py
+
+#Pip
+Pipfile
+Pipfile.lock
 
 # If you are using PyCharm # 
 .idea/**/workspace.xml 
