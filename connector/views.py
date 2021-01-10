@@ -8,4 +8,4 @@ class Home(View):
     def get(self,request):
         data = get_data()
         print(data)
-        return render(request, self.template_name, {})
+        return render(request, self.template_name, {'rows':data})

@@ -9,8 +9,7 @@
     "restaurantPhoneNumber" : "+12222345",
     "pickupLatitude":41.538670,
     "pickupLongitude":-72.082700,
-    "deliveryLatitude":41.538670,
-    "deliveryLongitude":-72.082700,
+
     "orderItem":[],
     "totalOrderCost":"38.06",
     "tax":"2.5",
